@@ -16,7 +16,7 @@ def main():
     game_clock = pygame.time.Clock()
 
     player = Bird(SCREEN_WIDTH / 2 - 34, SCREEN_HEIGHT / 2)
-    pipes = [Pipe(SCREEN_WIDTH)]
+    pipes = [Pipe(SCREEN_WIDTH +  600)]
     base = Base(700)
     bg_move = 0
     bg_width = bg.get_width()
