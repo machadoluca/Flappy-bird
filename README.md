@@ -1,4 +1,4 @@
-## How to run this game ##
+## How to run this game
 
 1. You need **pygame** module installed
 
@@ -6,4 +6,8 @@
 pip install pygame
 ```
 
-2. Run main.py 
+2. Run main.py
+
+```bash
+py main.py
+```
